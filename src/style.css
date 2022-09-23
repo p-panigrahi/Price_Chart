@@ -1,0 +1,16 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    margin: 0px;
+}
+.container{
+    height: 100vh;
+}
+.chart-wrapper{
+    width: 500px;
+    height: 500px;
+    margin: 0px auto;
+}
